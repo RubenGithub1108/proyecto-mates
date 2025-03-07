@@ -1,0 +1,1 @@
+Fechero de texto de scripts
