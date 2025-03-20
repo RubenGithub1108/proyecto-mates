@@ -1,1 +1,1 @@
-Esto sera un fichero para mostrar los commits a revertir, ya lo he acabado todo. Bien hecho!
+Esto sera un fichero para mostrar los commits a revertir, ya lo he acabado todo. El cliente ya puede seguir utilizado nuestro  proyecto de mates.
